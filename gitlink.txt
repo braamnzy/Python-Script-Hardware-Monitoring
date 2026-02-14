@@ -1,1 +1,0 @@
-https://github.com/braamnzy/Python-Script-Hardware-Monitoring.git
